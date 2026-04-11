@@ -74,7 +74,7 @@ export default createConfigForNuxt({
     'vue/object-curly-spacing': ['error', 'always'],
     'vue/object-property-newline': [
         'error',
-        { allowMultiplePropertiesPerLine: true }
+        { allowAllPropertiesOnSameLine: true }
     ],
     'vue/padding-line-between-blocks': ['error', 'always'],
     'vue/quote-props': ['error', 'consistent-as-needed'],
