@@ -48,7 +48,7 @@
     "sass-migrator": "2.6.1",
     "tailwindcss": "4.3.3",
     "typescript": "6.0.3",
-    "vite-plugin-vue-tracer": "1.5.0",
+    "vite-plugin-vue-tracer": "1.6.0",
     "vue": "3.5.43",
     "vue-router": "5.3.1",
     "vue-tsc": "3.3.12"
